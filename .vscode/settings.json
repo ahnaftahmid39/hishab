@@ -1,0 +1,5 @@
+{
+  "licenser.license": "GPLv3",
+  "licenser.author": "The Hishab Project Contributors",
+  "licenser.excludeFileExtensions": ["json", "md", "yml", "yaml"]
+}
